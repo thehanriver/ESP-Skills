@@ -1,15 +1,15 @@
-#  Skill Name
+#  Setup and use Github individually
 
-Author: FirstName LastName
+Author: Mario Han
 
-Date: YYYY-MM-DD
+Date: 2020-09-04
 -----
 
 ## Summary
-
+created new repo, and showing changed 
 
 ## Sketches and Photos
-
+https://drive.google.com/file/d/1Mboh-klwbosloDodKqBM3C3FMWSndM06/view?usp=sharing
 
 ## Modules, Tools, Source Used Including Attribution
 
