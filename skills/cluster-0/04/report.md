@@ -1,4 +1,4 @@
-#  Demonstrate uploading video to cloud
+#  Demonstrate Uploading Video to Cloud
 
 Author: Mario Han
 

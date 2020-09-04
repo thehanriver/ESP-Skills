@@ -1,4 +1,4 @@
-#  Setup and use Github individually
+#  Setup and Use Github Individually
 
 Author: Mario Han
 

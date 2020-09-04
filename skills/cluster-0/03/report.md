@@ -1,4 +1,4 @@
-#  Get access to Piazza and post something
+#  Get Access to Piazza and Post Something
 
 Author: Mario Han	
 
