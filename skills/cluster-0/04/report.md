@@ -1,4 +1,4 @@
-#  Setup and use Github individually
+#  Demonstrate uploading video to cloud
 
 Author: Mario Han
 
@@ -6,10 +6,10 @@ Date: 2020-09-04
 -----
 
 ## Summary
-created new repo, and showing changed 
+Uploaded video to Google drive 
 
 ## Sketches and Photos
-https://drive.google.com/file/d/1Mboh-klwbosloDodKqBM3C3FMWSndM06/view?usp=sharing
+https://drive.google.com/file/d/1kvJH5QSqS_D9ccFwLzzsIIsSf1qzNDa8/view?usp=sharing
 
 ## Modules, Tools, Source Used Including Attribution
 
