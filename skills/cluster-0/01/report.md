@@ -1,12 +1,12 @@
-#  Skill Name
+#  Setup Editor and IDEs
 
-Author: FirstName LastName
+Author: Mario Han
 
-Date: YYYY-MM-DD
+Date: 2020-09-04
 -----
 
 ## Summary
-
+Installed Sublime, established a working directory, created EC444 folder on local machine to keep codes.
 
 ## Sketches and Photos
 
