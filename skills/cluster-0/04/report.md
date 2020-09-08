@@ -10,7 +10,9 @@ Uploaded video to Google drive
 
 ## Sketches and Photos
 
-![Screenshot](https://drive.google.com/uc?export=view&id=1kvJH5QSqS_D9ccFwLzzsIIsSf1qzNDa8)
+<iframe width="420" height="315"
+src="https://drive.google.com/file/d/1kvJH5QSqS_D9ccFwLzzsIIsSf1qzNDa8/view?usp=sharing">
+</iframe>
 ## Modules, Tools, Source Used Including Attribution
 
 
