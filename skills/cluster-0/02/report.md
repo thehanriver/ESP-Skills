@@ -9,7 +9,7 @@ Date: 2020-09-04
 created new repo, and showing changed 
 
 ## Sketches and Photos
-![Screenshot of us in a call making our Github](https://drive.google.com/file/d/1Mboh-klwbosloDodKqBM3C3FMWSndM06/preview)
+![Screenshot of us in a call making our Github](https://drive.google.com/file/d/1Mboh-klwbosloDodKqBM3C3FMWSndM06/view?usp=sharing)
 
 ## Modules, Tools, Source Used Including Attribution
 
