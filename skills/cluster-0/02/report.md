@@ -10,12 +10,12 @@ created new repo, and showing changed
 
 ## Sketches and Photos
 Screenshot of vivek and me doing our github accounts on EC444
-![Screenshot](https://drive.google.com/uc?export=view&id=1Mboh-klwbosloDodKqBM3C3FMWSndM06)
+https://drive.google.com/file/d/1Mboh-klwbosloDodKqBM3C3FMWSndM06/view
 
 ## Modules, Tools, Source Used Including Attribution
 
 
 ## Supporting Artifacts
 
-https://github.com/BU-EC444/Han-Mario-1/blob/master/skills/cluster-0/02/report.md
+
 -----
