@@ -11,7 +11,7 @@ Installed driver and espressif tool chain. Problem with installation because use
 
 ## Sketches and Photos
 Screenshot of the terminal
-[![Video](images/Thumbnail.jpg)](https://drive.google.com/file/d/1-F2-yEB-0gjGElCtv0hu2rGrOMrkK2vm/view?usp=sharing)
+[![Screenshot](images/Thumbnail.jpg)](https://drive.google.com/file/d/1-F2-yEB-0gjGElCtv0hu2rGrOMrkK2vm/view?usp=sharing)
 
 ## Modules, Tools, Source Used Including Attribution
 

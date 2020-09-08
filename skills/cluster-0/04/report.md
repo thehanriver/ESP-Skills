@@ -9,8 +9,8 @@ Date: 2020-09-04
 Uploaded video to Google drive 
 
 ## Sketches and Photos
-https://drive.google.com/file/d/1kvJH5QSqS_D9ccFwLzzsIIsSf1qzNDa8/view?usp=sharing
 Video of my Intro
+![Video](images/Thumbnail.jpg)](https://drive.google.com/file/d/1kvJH5QSqS_D9ccFwLzzsIIsSf1qzNDa8/view?usp=sharing)
 
 ## Modules, Tools, Source Used Including Attribution
 
