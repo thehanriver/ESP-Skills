@@ -7,7 +7,7 @@ Date: 2020-09-07
 
 ## Summary
 
-Installed driver and espressif tool chain. Problem with installation because user folder had a white space and couldn't change paths. So I made another User folder and downloaded esp-if there. Don't know if it will work for more complex projects but it works for hello_world so I will try other examples. So far, everything is running smoothly with little or no errors.
+Installed driver and espressif tool chain. Problem with installation because user folder had a white space and couldn't change paths. So I made another User folder and downloaded esp-if there. Don't know if it will work for more complex projects but it works for hello_world and blink so I will try other examples. So far, everything is running smoothly with little or no errors.
 
 ## Sketches and Photos
 Screenshot of the terminal for hello world 
