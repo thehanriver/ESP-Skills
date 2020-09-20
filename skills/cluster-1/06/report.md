@@ -16,10 +16,10 @@ show proper outputs on my terminal. Also, I used flags (shown in the code) to sw
 ![Screenshot (148)](https://user-images.githubusercontent.com/45515930/93691744-c0461900-fab7-11ea-9a57-c60d4ef63237.png)
 This is the console with all the states in demo
 
-![unnamed (1)](https://user-images.githubusercontent.com/45515930/93691777-23d04680-fab8-11ea-85c8-19a5b8f748c0.jpg)
+![unnamed](https://user-images.githubusercontent.com/45515930/93691776-20d55600-fab8-11ea-9893-bfefb03831cd.jpg)
 LED turned off after pressing t in toggle mode
 
-![unnamed](https://user-images.githubusercontent.com/45515930/93691776-20d55600-fab8-11ea-9893-bfefb03831cd.jpg)
+![unnamed (1)](https://user-images.githubusercontent.com/45515930/93691777-23d04680-fab8-11ea-85c8-19a5b8f748c0.jpg)
 LED turned on after pressing t in toggle mode
 
 ## Modules, Tools, Source Used Including Attribution
