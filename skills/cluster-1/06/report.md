@@ -13,6 +13,8 @@ show proper outputs on my terminal. Also, I used flags (shown in the code) to sw
 
 ## Sketches and Photos
 
+![Screenshot (148)](https://user-images.githubusercontent.com/45515930/93691744-c0461900-fab7-11ea-9a57-c60d4ef63237.png)
+This is the console with all the states in demo
 
 ## Modules, Tools, Source Used Including Attribution
 
