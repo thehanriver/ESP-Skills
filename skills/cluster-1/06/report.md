@@ -1,8 +1,8 @@
-#  Skill Name
+#  Console I/O
 
-Author: FirstName LastName
+Author: Mario Han
 
-Date: YYYY-MM-DD
+Date: 2020-09-18
 -----
 
 ## Summary
