@@ -1,6 +1,6 @@
 # Code Readme
 
-I just inside the main file you will find skill6 and cmake file.
+Inside the main file, you will find skill6 and cmake file.
 
 Also
 - Please provide your name and date in any code submitted
