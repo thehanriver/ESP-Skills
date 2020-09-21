@@ -7,7 +7,7 @@ Date: 2020 - 09 - 21
 
 ## Summary
 
-I used Pins 12,27,33, and 15 for each LED respectively. In doing so, I used the get-started(blink) example as a starting point. 
+I used Pins 12,27,33, and 15 with 330 Ohm resistors for each LED respectively. In doing so, I used the get-started(blink) example as a starting point. 
 I just applied int to bin logic using modulo to get the necesssary bin values. I used a for loop in my code that runs from 0 to 15 and uses
 i/8%2,i/4%2,i/2%2, and i%2 for the 4th,3rd,2nd, and 1st binary numbers respectively and set level of the LEDS to 1 whenever the function returned a 
 1 (since modulo floors fractions I believe).
