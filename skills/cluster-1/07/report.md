@@ -16,6 +16,9 @@ i/8%2,i/4%2,i/2%2, and i%2 for the 4th,3rd,2nd, and 1st binary numbers respectiv
 
 [Demo Of LEDS](https://drive.google.com/file/d/1Prw8HIhEM4GhQPIklh9e-DLLmXVWK7DW/view?usp=sharing)
 
+![Screenshot (149)](https://user-images.githubusercontent.com/45515930/93776037-1ff40f80-fbf1-11ea-97b0-19a1c53883f8.png)
+
+Error checking to see if I'm getting the correct binary values.
 
 ## Modules, Tools, Source Used Including Attribution
 
