@@ -23,7 +23,7 @@ ESP-IDF get-started -> blink
 
 ## Supporting Artifacts
 
-Link to code repo for easier navigation:
+Link to code repo for easier navigation: https://github.com/BU-EC444/Han-Mario-1/tree/master/skills/cluster-1/07/code
 
 
 -----
