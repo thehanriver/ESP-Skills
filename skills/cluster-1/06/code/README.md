@@ -1,7 +1,6 @@
 # Code Readme
 
-Please describe what is in your code folder and subfolders. Make it
-easy for us to navigate this space.
+I just inside the main file you will find skill6 and cmake file.
 
 Also
 - Please provide your name and date in any code submitted
