@@ -24,8 +24,13 @@ LED turned on after pressing t in toggle mode
 
 ## Modules, Tools, Source Used Including Attribution
 
+Code example in EC444 
+get-started -> blink (from esp-idf)
 
 ## Supporting Artifacts
+
 Photos from above ^^
+Link to Code file for easier navigation :
+https://github.com/BU-EC444/Han-Mario-1/tree/master/skills/cluster-1/06/code
 
 -----
