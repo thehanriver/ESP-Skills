@@ -25,7 +25,7 @@ LED turned on after pressing t in toggle mode
 ## Modules, Tools, Source Used Including Attribution
 
 Code example in EC444 
-get-started -> blink (from esp-idf)
+https://github.com/espressif/esp-idf/tree/master/examples/peripherals/uart/uart_echo
 
 ## Supporting Artifacts
 
