@@ -22,7 +22,9 @@ Error checking to see if I'm getting the correct binary values.
 
 ## Modules, Tools, Source Used Including Attribution
 
-ESP-IDF get-started -> blink
+ESP example "blink" from get-started:
+
+https://github.com/espressif/esp-idf/tree/master/examples/get-started/blink
 
 ## Supporting Artifacts
 
