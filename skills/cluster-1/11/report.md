@@ -13,11 +13,11 @@ I copied my code from skill 10 and switched out the task 1 which was the binary 
 
 First button press and reset
 
-![Link to Demo](https://drive.google.com/file/d/1SMoEi5SnF56CMUrSUhX6_Ja1kkg8JFaE/view?usp=sharing)
+[Link to Demo](https://drive.google.com/file/d/1SMoEi5SnF56CMUrSUhX6_Ja1kkg8JFaE/view?usp=sharing)
 
 Wraps around back to 0 after reaching 99
 
-![Link to Demo](https://drive.google.com/file/d/1nKIDKK7bwZA6Vr_1zDXuty9Qdo_bbQZD/view?usp=sharing)
+[Link to Demo](https://drive.google.com/file/d/1nKIDKK7bwZA6Vr_1zDXuty9Qdo_bbQZD/view?usp=sharing)
 
 ## Modules, Tools, Source Used Including Attribution
 
