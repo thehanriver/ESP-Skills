@@ -1,7 +1,6 @@
-# Code Readme
+# Code Readme RTOS-Hardware Interrupt
 
-Please describe what is in your code folder and subfolders. Make it
-easy for us to navigate this space.
+Main folder has skill 10 c file and cmake
 
 Also
 - Please provide your name and date in any code submitted
