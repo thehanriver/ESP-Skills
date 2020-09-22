@@ -1,4 +1,4 @@
-# Code Readme
+# Code Readme for Console I/O
 
 Inside the main file, you will find skill6 and cmake file.
 
