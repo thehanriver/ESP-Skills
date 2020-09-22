@@ -19,6 +19,13 @@ Date: 2020-09-21
   
 ## Sketches and Photos
 
+Console
+
+![Screenshot (151)](https://user-images.githubusercontent.com/45515930/93835731-2b295880-fc4e-11ea-82e6-85837185aa7d.png)
+
+Video of Demo(Going Up then down back Up)
+
+![Link to Demo](https://drive.google.com/file/d/1ZgvXKA6t5Nc7CfUjAJu_4HmaVuw9NWuO/view?usp=sharing)
 
 ## Modules, Tools, Source Used Including Attribution
 
