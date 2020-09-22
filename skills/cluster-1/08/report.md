@@ -18,33 +18,34 @@ Date: 2020 - 09 - 21
 ## Sketches and Photos
 
 ![IMG_8564](https://user-images.githubusercontent.com/45515930/93774844-b0c9eb80-fbef-11ea-81e0-06ecb02a1486.JPG)
-
 Asks user for 4 letter characters upon flash.
 
 ![IMG_8565](https://user-images.githubusercontent.com/45515930/93774996-e078f380-fbef-11ea-8a83-c1f438b75021.JPG)
-
 Two Letters displayed.
 
 ![IMG_8567](https://user-images.githubusercontent.com/45515930/93775062-f7b7e100-fbef-11ea-8255-427a8767c51e.JPG)
-
 Four Letters displayed.
 
 ![IMG_8568](https://user-images.githubusercontent.com/45515930/93775145-0f8f6500-fbf0-11ea-936a-47d267fbee8c.JPG)
-
 One Letter Displayed. Note: numbers work as well I just forgot to take pictures.
 
 ![IMG_8571](https://user-images.githubusercontent.com/45515930/93775195-1f0eae00-fbf0-11ea-8edc-894feaa120e9.JPG)
-
 If input is larger than 4 characters, reprompts user.
 
 ## Modules, Tools, Source Used Including Attribution
 
-I2C example code, Skill6, "Bitmap Cheat" inside debfrief.
+I2C example code:\
+https://github.com/BU-EC444/code-examples/tree/master/i2c-display
+
+Bitmap Cheatsheet:\
+https://github.com/adafruit/Adafruit_LED_Backpack/blob/master/Adafruit_LEDBackpack.cpp
+
+My Own skill 6 code:\
+https://github.com/BU-EC444/Han-Mario-1/tree/master/skills/cluster-1/06/code
 
 ## Supporting Artifacts
 
-Link to code for easier navigation:
-
+Link to code for easier navigation:\
 https://github.com/BU-EC444/Han-Mario-1/tree/master/skills/cluster-1/08/code
 
 -----
