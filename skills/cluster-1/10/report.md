@@ -19,33 +19,28 @@ Date: 2020-09-21
   
 ## Sketches and Photos
 
-Console
-
+Console\
 ![Screenshot (151)](https://user-images.githubusercontent.com/45515930/93835731-2b295880-fc4e-11ea-82e6-85837185aa7d.png)
 
-Video of Demo(Going Up then down back Up)
 
+Video of Demo(Going Up then down back Up)\
 [Link to Demo](https://drive.google.com/file/d/1ZgvXKA6t5Nc7CfUjAJu_4HmaVuw9NWuO/view?usp=sharing)
 
 ## Modules, Tools, Source Used Including Attribution
 
-LED binary count
-
+LED binary count:\
 https://github.com/BU-EC444/Han-Mario-1/blob/master/skills/cluster-1/07/code/main/Skill7.c
 
-Alphanumeric Display from Skill 8
-
+Alphanumeric Display from Skill 8:\
 https://github.com/BU-EC444/Han-Mario-1/blob/master/skills/cluster-1/08/code/main/Skill8.c
  
-Learning GPIO input and how to wire button
-
+Learning GPIO input and how to wire button:\
 https://microcontrollerslab.com/push-button-esp32-gpio-digital-input/
 
 
 ## Supporting Artifacts
 
-Link to code repo for easier navigation:
-
+Link to code repo for easier navigation:\
 https://github.com/BU-EC444/Han-Mario-1/tree/master/skills/cluster-1/10/code
 
 -----
