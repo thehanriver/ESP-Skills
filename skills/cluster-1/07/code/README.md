@@ -1,4 +1,4 @@
-# Code Readme
+# Code Readme Use GPIO to Control LEDs
 
 Inside the main folder, you will see Skill7.c and cmake file.
 
