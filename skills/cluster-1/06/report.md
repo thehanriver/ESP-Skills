@@ -24,15 +24,12 @@ LED turned on after pressing t in toggle mode
 
 ## Modules, Tools, Source Used Including Attribution
 
-Code example from Console I/0 (esp):
-
+Code example from Console I/0 (esp):\
 https://github.com/espressif/esp-idf/tree/master/examples/peripherals/uart/uart_echo
 
 ## Supporting Artifacts
 
-Photos from above ^^
-
-Link to Code file for easier navigation :
+Link to Code file for easier navigation :\
 https://github.com/BU-EC444/Han-Mario-1/tree/master/skills/cluster-1/06/code
 
 -----
