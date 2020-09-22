@@ -1,7 +1,6 @@
-# Code Readme
+# Code Readme StopWatch
 
-Please describe what is in your code folder and subfolders. Make it
-easy for us to navigate this space.
+Inside main there is C and cmake file.
 
 Also
 - Please provide your name and date in any code submitted
