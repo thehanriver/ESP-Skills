@@ -1,6 +1,6 @@
 #  RTOS-Hardware Interrupt
 
-Author: MArio Han
+Author: Mario Han
 
 Date: 2020-09-21
 -----
