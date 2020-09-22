@@ -24,7 +24,8 @@ LED turned on after pressing t in toggle mode
 
 ## Modules, Tools, Source Used Including Attribution
 
-Code example in EC444 
+Code example in EC444 :
+
 https://github.com/espressif/esp-idf/tree/master/examples/peripherals/uart/uart_echo
 
 ## Supporting Artifacts
