@@ -1,4 +1,4 @@
-# Code Readme
+# Code Readme Alphanumeric I2C Display
 
 Same as always, inside main folder there is the C file and cmake file.
 
