@@ -17,7 +17,7 @@ IR wired up:
 ![IR](https://user-images.githubusercontent.com/45515930/95522153-54a9ea00-0999-11eb-8c1b-eeaaa8f712bc.JPG)
 
 Console during one of my tests. 
-I put the IR rangefinder on the table and set it facing the mugar-basement ceiling.Which is about 208 cm away. I put my noteook in between IR sensor and ceiling several times 
+I put the IR rangefinder on the table and set it facing up to the mugar-basement ceiling.Which is about 208 cm away. I put my noteook in between IR sensor and ceiling several times 
 and as you can see it gets different readings depending on how far the notebook is. Unfortunately, I couldn't take a picture of me doing that so please use ur imagination
 using the following three images below on how I tested it.
 ![IRscreen](https://user-images.githubusercontent.com/45515930/95522182-64c1c980-0999-11eb-8ded-c6f4a84bbe35.png)
