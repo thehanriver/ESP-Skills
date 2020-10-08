@@ -7,7 +7,7 @@ Date: 2020/10/8
 
 ## Summary
 
-For this , I did all the modules and followed the tutorials (pretty straightword). After doing so, I used serialport's website to see how to implement this. Changing path to my serialport seemed to allow me to get the data from the serial port attached to my esp32 (refer to the image below from serialport's site). It dispalyed correctly after I didn't use idf.py monitor. I picked skill 13 to test this out.
+For this , I did all the modules and followed the tutorials (pretty straightword). After doing so, I used serialport's website to see how to implement this. Changing path to my serialport(COM4) seemed to allow me to get the data from the serial port attached to my esp32 (refer to the image below from serialport's site). It dispalyed correctly after I didn't use idf.py monitor. I picked skill 13 to test this out.
 
 ## Sketches and Photos
 
