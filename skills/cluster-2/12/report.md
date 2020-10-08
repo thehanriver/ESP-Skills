@@ -7,9 +7,9 @@ Date: 2020/10/8
 
 ## Summary
 
-To show the voltage in from esp to I2C display, I used the code from previous skills such as skill 8 to use as a template. After doing so, I used the code example and combined it with the template in order to show only numbers. 
+To show the voltage-in from esp to I2C display, I used the code from previous skills such as skill 8 to use as a template. After doing so, I used the code example and combined it with the template in order to show only numbers. 
 
-Then it was just a matter of finding the correct resistors for the voltage divider. I used 660 ohms and 990 ohms in order to reduce 5V to about 3V. For some reason, when there is no voltage going through the ADC pin, I get 142 mV. So in my calculations in displaying the Voltage (mV is shown on I2C), we subtract 142 from voltage. From there, it was just a matter of showing Voltages on the I2c as mV.
+Then it was just a matter of finding the correct resistors for the voltage divider. I used 660 ohms for R1 and 990 ohms for R2 in order to reduce 5V to about 3V. For some reason, when there is no voltage going through the ADC pin, I get 142 mV. So in my calculations in displaying the Voltage (mV is shown on I2C), I subtract 142 from voltage. From there, it was just a matter of showing Voltages on the I2C as mV.
 
 ## Sketches and Photos
 
