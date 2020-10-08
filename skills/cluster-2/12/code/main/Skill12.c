@@ -3,7 +3,8 @@
    Unless required by applicable law or agreed to in writing, this
    software is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR
    CONDITIONS OF ANY KIND, either express or implied.
-
+   ^^from ESP
+   also used example code from BU-ec444 for I2C
    Mario Han 9/25/20
 */
 #include <stdio.h>
