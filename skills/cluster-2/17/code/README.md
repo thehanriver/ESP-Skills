@@ -1,8 +1,5 @@
 # Code Readme
 
-Please describe what is in your code folder and subfolders. Make it
-easy for us to navigate this space.
+Code needed to run node CVStest.js.
 
-Also
-- Please provide your name and date in any code submitted
-- Indicate attributrion for any code you have adopted from elsewhere
+Running CVStest.js will render the chart. Otherwise, if you just open the html file only CVS test will be shown
