@@ -17,7 +17,7 @@ How the ultrasonic looks wired up:
 Kind of hard to read values but 22cm(142mV) seems to be the minimum distance before getting readings:
 ![ultra](https://user-images.githubusercontent.com/45515930/95518737-b1090b80-0991-11eb-839f-54d94ace0a58.png)
 
-Me measuring to see if it correctly measures data:
+Me measuring to see if it correctly measures data but in the worst way possible since i forgot my ruler:
 ![measuringultra](https://user-images.githubusercontent.com/45515930/95518818-de55b980-0991-11eb-939d-747b7ca05d13.JPG)
 
 ## Modules, Tools, Source Used Including Attribution
