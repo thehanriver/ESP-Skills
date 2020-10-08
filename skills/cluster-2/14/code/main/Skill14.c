@@ -3,7 +3,8 @@
    Unless required by applicable law or agreed to in writing, this
    software is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR
    CONDITIONS OF ANY KIND, either express or implied.
-
+   from esp^^
+   Exact copy of Skill13 except the conversion changed to distance
    Mario Han 9/30/20
 */
 #include <stdio.h>
