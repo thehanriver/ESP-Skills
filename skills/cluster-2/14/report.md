@@ -14,7 +14,7 @@ Used the codefrom skill 13 and replaced the calculation part to turn voltage int
 How the ultrasonic looks wired up:
 ![ultra](https://user-images.githubusercontent.com/45515930/95518662-88811180-0991-11eb-8dea-37ba73092c6e.JPG)
 
-Kind of hard to read values but 22cm seems to be the minimum distance before getting readings:
+Kind of hard to read values but 22cm(142mV) seems to be the minimum distance before getting readings:
 ![ultra](https://user-images.githubusercontent.com/45515930/95518737-b1090b80-0991-11eb-839f-54d94ace0a58.png)
 
 Me measuring to see if it correctly measures data:
