@@ -7,7 +7,7 @@ Date: 2020/10/8
 
 ## Summary
 
-Used the code from skill 13 and replaced the calculation part to turn voltage into distance. Based on the Maxbotics tutorial, created a formula that will convert mV to cm. Looking at the quest brief, pretty simple to wire up using the 3.3V power source.
+Used the code from skill 13 and replaced the calculation part to turn voltage into distance. Based on the Maxbotics tutorial, created a formula that will convert mV to cm. Looking at the quest brief, pretty simple to wire up using the 3.3V power source. It still needs a bit of calibration but generally, it works.
 
 ## Sketches and Photos
 
