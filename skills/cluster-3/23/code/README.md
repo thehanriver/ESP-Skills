@@ -1,8 +1,3 @@
 # Code Readme
 
-Please describe what is in your code folder and subfolders. Make it
-easy for us to navigate this space.
-
-Also
-- Please provide your name and date in any code submitted
-- Indicate attributrion for any code you have adopted from elsewhere
+Inside main, there is skill 24.c which has my code. I used the example code from BU EC444 so you should see a .h file that was used too.
