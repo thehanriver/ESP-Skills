@@ -21,7 +21,7 @@ The node site:
 
 ## Modules, Tools, Source Used Including Attribution
 
-![Link to the Tutorial I used](https://desertbot.io/blog/nodejs-git-and-pm2-headless-raspberry-pi-install)
+[Link to the Tutorial I used](https://desertbot.io/blog/nodejs-git-and-pm2-headless-raspberry-pi-install)
 
 ## Supporting Artifacts
 
