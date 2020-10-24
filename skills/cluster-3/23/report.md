@@ -7,7 +7,7 @@ Date: 2020-10-23
 
 ## Summary
 
-For this, I used the I2C brief and example codes as guidance. By learning how the the I2C communicates. I created 4 functions:
+For this, I used the I2C brief and example codes as guidance. By learning how the I2C communicates. I created 4 functions:
 
 writeRegister: simply writes data to register
 readRegister: read a byte from data at register address
