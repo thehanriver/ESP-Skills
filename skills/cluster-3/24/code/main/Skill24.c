@@ -37,9 +37,9 @@
 #define LEDC_HS_TIMER          LEDC_TIMER_0
 #define LEDC_HS_MODE           LEDC_HIGH_SPEED_MODE
 #define LEDC_HS_CH0_GPIO       (13)
-#define LEDC_TEST_DUTY         (2000)
-#define LEDC_TEST_FADE_TIME    (2000)
-#define LEDC_TEST_STEPS        (20)
+#define LEDC_TEST_DUTY         (250)
+#define LEDC_TEST_FADE_TIME    (250)
+#define LEDC_STEPS        (9)
 #define LEDC_CYCLES            50
 #define LEDC_HS_CH0_CHANNEL    LEDC_CHANNEL_0
 
@@ -90,13 +90,13 @@ void app_main(void)
     ledc_fade_func_install(0);
 
     while (1) {
-        printf("1. LEDC fade up to duty = %d\n", LEDC_TEST_DUTY);
+        printf("1. LEDC fade up to steps = %d\n", LEDC_STEPS);
         ledc_set_fade_step_and_start(ledc_channel.speed_mode, ledc_channel.channel,
-          LEDC_TEST_DUTY, LEDC_TEST_STEPS, LEDC_CYCLES, LEDC_FADE_WAIT_DONE);
+          LEDC_TEST_DUTY, LEDC_STEPS, LEDC_CYCLES, LEDC_FADE_WAIT_DONE);
 
-        printf("2. LEDC fade down to duty = 0\n");
+        printf("2. LEDC fade down to steps = 0\n");
         ledc_set_fade_step_and_start(ledc_channel.speed_mode, ledc_channel.channel,
-          0, LEDC_TEST_STEPS, LEDC_CYCLES, LEDC_FADE_WAIT_DONE);
+          0, LEDC_STEPS, LEDC_CYCLES, LEDC_FADE_WAIT_DONE);
         //ledc_set_fade_with_time(ledc_channel.speed_mode,
                     //ledc_channel.channel, LEDC_TEST_DUTY, LEDC_TEST_FADE_TIME);
         //ledc_fade_start(ledc_channel.speed_mode,
