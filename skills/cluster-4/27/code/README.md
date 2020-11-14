@@ -1,8 +1,3 @@
 # Code Readme
 
-Please describe what is in your code folder and subfolders. Make it
-easy for us to navigate this space.
-
-Also
-- Please provide your name and date in any code submitted
-- Indicate attributrion for any code you have adopted from elsewhere
+This is my whack a mole game FSM. whac.c is a pseudo code ish code that specifies what it does
