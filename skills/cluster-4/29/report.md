@@ -13,11 +13,17 @@ This is the local network:
 
 |Raspberry Pi/Node server| <==> |Router| <==> |ESP| <==> |Car|
                                   ||
+                                  
                                   ||
+                                  
                                   ||
+                                  
                                 Internet Cloud
+                                
                                   ||
+                                  
                                   ||
+                                  
                                  Website
                                  
 Some weaknesses:  
