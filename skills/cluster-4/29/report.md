@@ -33,6 +33,8 @@ Anyone can control the car on the website
 
 People can listen in on the UDP protocol
 
+
+
 Ways that a bad guy can attack:
 Anyone can access a site to control the car
 
@@ -43,6 +45,8 @@ Send UDP packets to gain control of the car
 Block/Intercept UDP response from the car
 
 Someone can flood the memory of the ESP
+
+
 
 Solutions:
 Encrypt communication
