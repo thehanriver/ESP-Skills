@@ -21,7 +21,7 @@ In our implementation, higher ID ESP becomes the leader. The LEDs show which esp
 ## Sketches and Photos
 
 DEMO:
-![Screenshot (207)](https://drive.google.com/file/d/1UvzbS3z5qoa0E0G9s29EnY_lNSTwYcPf/view?usp=sharing)
+[Link to demo](https://drive.google.com/file/d/1UvzbS3z5qoa0E0G9s29EnY_lNSTwYcPf/view?usp=sharing)
 
 ## Modules, Tools, Source Used Including Attribution
 
