@@ -1,6 +1,6 @@
 #  Persistence and Databases
 
-Author: Mario Han
+Author: Mario Han , Hussain Valiuddin, Vivek Cherian
 
 Date: 2020-11-13
 -----
