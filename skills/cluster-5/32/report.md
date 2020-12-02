@@ -7,7 +7,7 @@ Date: 2020-12-1
 
 ## Summary
 
-I used the voltage read from the thermistor quest and in doing so, I wired according to the Sparkfun guide. I printed out the 12 pattern encoder and attached it to the inside of the wheel. Instead of caluclating RPM, I measured how many times it passed by the black part of the encoder in a second and divded that by 6. Then I multipied it by the wheel circumference in meters to get the speed. The speed was displayed in the console.
+I used the voltage read from the thermistor skill (analog read) and in doing so, I wired according to the Sparkfun guide. I printed out the 12 pattern encoder and attached it to the inside of the wheel. Instead of caluclating RPM, I measured how many times it passed by the black part of the encoder in a second and divded that by 6 (rotations per second). Then I multipied it by the wheel circumference (24.0 cm) in meters to get the speed. The speed was displayed in the console.
 
 ## Sketches and Photos
 
