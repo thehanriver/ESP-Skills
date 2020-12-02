@@ -1,8 +1,8 @@
-#  Skill Name
+#  PID
 
-Author: FirstName LastName
+Author: Mario Han
 
-Date: YYYY-MM-DD
+Date: 2020-12-1
 -----
 
 ## Summary
@@ -21,4 +21,5 @@ The timer initialization is taken from a previous skill.
 [Link to Code ] (https://github.com/BU-EC444/Han-Mario-1/tree/master/skills/cluster-5/33/code)
 
 [Link to Quest 2 ](https://github.com/BU-EC444/Team2-Cherian-Han-Valiuddin/tree/master/quest-2)
+
 -----
