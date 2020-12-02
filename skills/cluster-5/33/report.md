@@ -18,7 +18,7 @@ The timer initialization is taken from a previous skill.
 
 ## Supporting Artifacts
 
-[Link to Code ] (https://github.com/BU-EC444/Han-Mario-1/tree/master/skills/cluster-5/33/code)
+[Link to Code ](https://github.com/BU-EC444/Han-Mario-1/tree/master/skills/cluster-5/33/code)
 
 [Link to Quest 2 ](https://github.com/BU-EC444/Team2-Cherian-Han-Valiuddin/tree/master/quest-2)
 
