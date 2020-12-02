@@ -11,8 +11,7 @@ So I collected the values from SCL and SDA over I2C. The LIDAR sends data over 2
 
 ## Sketches and Photos
 
-
-
+![IMG_9425](https://user-images.githubusercontent.com/45515930/100811907-c63a6d80-3409-11eb-80f7-93c1727b2b9a.JPG)
 
 ## Modules, Tools, Source Used Including Attribution
 
