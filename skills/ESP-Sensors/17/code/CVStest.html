@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head><title>Test page</title></head>
+<body>
+<h1>CSV Test</h1>
+<div id="div1"></div>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<script src="https://canvasjs.com/assets/script/jquery-1.11.1.min.js"></script>
+<script type="text/javascript">
+
+window.onload = function () {
+  var FB = [];
+  var AMZN = [];
+  var GOOGL = [];
+  var MSFT = [];
+  $.ajax({url: "/data", success: function(result){
+    var contents ="";
+
+    jQuery.each(result, function(i, val) {
+      if(val[1] === 'FB'){
+            FB.push({x: parseInt(val[0]),y: parseInt(val[2])});
+            console.log(FB);
+          }
+      else if(val[1] === 'AMZN'){
+            AMZN.push({x: parseInt(val[0]),y: parseInt(val[2])});
+            console.log(AMZN);
+          }
+      else if(val[1] === 'GOOGL'){
+            GOOGL.push({x: parseInt(val[0]),y: parseInt(val[2])});
+            console.log(GOOGL);
+          }
+      else if(val[1] === 'MSFT'){
+            MSFT.push({x: parseInt(val[0]),y: parseInt(val[2])});
+            console.log(MSFT);
+          }
+    });
+    drawChart(FB,MSFT,GOOGL,AMZN);
+  }});
+
+
+  function drawChart(FB,MSFT,GOOGL,AMZN){
+    var chart = new CanvasJS.Chart("chartContainer", {
+  	animationEnabled: false,
+  	theme: "light2",
+  	title:{
+  		text: "Stocks"
+  	},
+    axisX:{
+  		title: "DATE",
+    },
+  	axisY: {
+  		title: "CLOSING",
+  	},
+  	legend:{
+  		cursor:"pointer",
+  		verticalAlign: "top",
+  		horizontalAlign: "left",
+      dockInsidePlotArea: true
+  	},
+    data: [{
+      type:"line",
+  		name: "FB",
+      showInLegend: true,
+  		dataPoints: FB
+    },
+    {
+      type: "line",
+  		name: "GOOGL",
+  		showInLegend: true,
+	    dataPoints: GOOGL
+    },
+    {
+      type: "line",
+  		name: "AMZN",
+      showInLegend: true,
+  		dataPoints: AMZN
+    },
+    {
+      type: "line",
+  		name: "MSFT",
+      showInLegend: true,
+  		dataPoints: MSFT
+    }]
+});
+chart.render();
+}
+
+}
+
+</script>
+</body>
+<body>
+<div id="chartContainer" style="height: 300px; width: 100%;"></div>
+<script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
+</body>
+</html>
