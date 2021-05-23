@@ -1,5 +1,8 @@
-# Han-Mario
+# ESP Skills
+### Mario Han
 
-Repository for a skill set I had to learn during one of my classes at Boston which
-was to learn about smart and connected systems.
+## Contents
+
+Repository for skill sets learned in learning about smart and connected systems / embedded systems using Adafruit ESP32s and Raspberry Pi
+
 
